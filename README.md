@@ -2,6 +2,6 @@
 
 We prepare BFMC2025 
 
-Qaulification Video Link : <https://youtu.be/wYGfBFWpV_A>
+[![Qualification Video](https://img.youtube.com/vi/wYGfBFWpV_A/0.jpg)](https://youtu.be/wYGfBFWpV_A)
 
 
